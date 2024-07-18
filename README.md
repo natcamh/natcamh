@@ -1,5 +1,5 @@
 
-![github banner](https://github.com/user-attachments/assets/e40edcf6-63de-4ddc-9342-7af6d4f10399)
+![Component 1](https://github.com/user-attachments/assets/61e7e558-fe13-494b-ab0e-38139ecb444a)
 
 ## Hi there 👋 Some things about me:
 
