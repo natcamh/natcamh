@@ -3,7 +3,7 @@
 
 ## Hi there 👋 Some things about me:
 
-- 🔭 I’m currently working as a Cloud Support Jr at Artech.
+- 🔭 I’m currently working freelance creating web sites.
 - 🌱 I’m a student of the University Technical Degree in Software Development at Upateco, where I’m currently learning React. 
 - 👯 I’m also a UX UI designer! Love to keep things simple 🫶
 - 🤔 I’m looking to collaborate on projects to practice and get to know more technologies!
